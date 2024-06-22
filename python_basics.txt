@@ -82,3 +82,16 @@ Exception Handling:
 What is exception handling in Python? Provide an example of how to use try, except, and finally blocks to handle errors in a Python script.
 
 Exception Handling: Mechanism to handle runtime errors, allowing the program to continue running or fail gracefully.
+
+
+Modules and Packages:
+Explain the concepts of modules and packages in Python. How can you import and use a module in your script? Provide an example using the math module.
+
+Modules: Files containing Python code (functions, classes, variables) that can be imported and used in other scripts.
+
+Packages: Collections of modules organized in directories.
+
+
+
+Resources:
+W3 schools
